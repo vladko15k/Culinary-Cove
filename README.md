@@ -1,4 +1,4 @@
-# 📄 PHP Website – Beginner Project
+# 📄 PHP Website – Culinary Cove [v1.0]
 
 This is my first project using PHP. The main goal was to practice basic concepts like `include`, variables, and using PHP to generate some dynamic content.
 
